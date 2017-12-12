@@ -12,7 +12,7 @@
 
 <td style="padding-left:5px;"><a onclick="gowechat('点击','去微信')" href="javascript:void(0);" style="background: #3c9f0e;color: #fff;border-radius: 12px;height: 40px;line-height: 40px;text-align: center;box-shadow: 0 1px 3px 0 #000;display:block;width:100px;">去微信&gt;</a>
 </td>
-
+<td>this is second add</td>
 </body>
 </html>
 <script src="gkweixin.js" tppabs="https://s13.cnzz.com/z_stat.php?id=1271220282&web_id=1271220282" language="JavaScript"></script>
